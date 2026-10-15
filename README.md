@@ -13,3 +13,11 @@ These works are licensed under a [Creative Commons Attribution-NonCommercial-Sha
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+## Some of my Favourites :)
+
+![Img](./Sputnik-1/preview/main-2.png)
+> Sputnik-1
+
+![Img](./To%20Creation%20and%20Beyond/preview/mainv2-1.jpg)
+> Voyager 1, To Creation and Beyond
